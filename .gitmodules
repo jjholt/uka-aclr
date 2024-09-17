@@ -1,0 +1,6 @@
+[submodule "lvdt"]
+	path = lvdt
+	url = git@github.com:jjholt/lvdt.git
+[submodule "jcs-visualisation"]
+	path = jcs-visualisation
+	url = git@github.com:ImperialCollegeLondon/jcs-visualisation.git
