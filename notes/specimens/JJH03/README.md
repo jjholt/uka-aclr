@@ -11,3 +11,7 @@ The ACL footprint on the tibia is incredibly close to the UKA, so it was made a 
 overall reasonable pACLR. We'll see the results
 
 Used 5.5mm hole instead of 5. Should have used a 7mm screw probably.
+
+---
+
+Frozen after pACLR. If pACLR doesn't survive, redo with 7mm screw.
