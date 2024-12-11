@@ -12,7 +12,7 @@ Sized: tE*f3
 - [ ] no ACL
 
 ## [JJH02](JJH02)
-Sized: tG8f5
+Sized: tG8f5 (implanted)
 
 - [x] Native
 - [ ] UKA
@@ -24,12 +24,12 @@ Sized: tG8f5
 - [ ] ACLR
 - [ ] no ACL
 ## [JJH03](JJH03)
-Sized: tG8f5 (implanted)
+Sized: tG8f5 (explanted)
 
 - [x] Native
 - [x] UKA
 - [x] pACLR
-- [-] pACL. Ruptured from anterior load.
+- [ ] pACL. Ruptured from anterior load.
 - [x] ACLR
 - [x] no ACL. Tibial lift off
 - [ ] Osteotomy 
