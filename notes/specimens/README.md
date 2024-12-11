@@ -28,10 +28,10 @@ Sized: tG8f5 (implanted)
 
 - [x] Native
 - [x] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
-- [ ] no ACL
+- [x] pACLR
+- [-] pACL. Ruptured from anterior load.
+- [x] ACLR
+- [x] no ACL. Tibial lift off
 - [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
