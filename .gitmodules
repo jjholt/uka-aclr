@@ -1,9 +1,9 @@
 [submodule "lvdt"]
 	path = lvdt
-	url = git@github.com:jjholt/lvdt.git
+	url = personal:jjholt/lvdt.git
 [submodule "jcs-visualisation"]
 	path = jcs-visualisation
-	url = git@github.com:ImperialCollegeLondon/jcs-visualisation.git
+	url = imperial:ImperialCollegeLondon/jcs-visualisation.git
 [submodule "data-processing"]
 	path = data-processing
-	url = git@github.com:jjholt/data-processing.git
+	url = personal:jjholt/data-processing.git
