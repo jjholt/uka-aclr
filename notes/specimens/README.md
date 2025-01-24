@@ -12,7 +12,7 @@ Sized: tE*f3
 - [ ] no ACL
 
 ## [JJH02](JJH02)
-Sized: tG8f5 (implanted)
+Sized: tG8f5 (explanted). Avulsion fraction from robot jerking motion
 
 - [x] Native
 - [ ] UKA
