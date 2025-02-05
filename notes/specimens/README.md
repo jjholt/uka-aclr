@@ -11,19 +11,6 @@ Sized: tE*f3
 - [ ] ACLR
 - [ ] no ACL
 
-
-## [JJH05](JJH05)
-Sized:  tG8f4
-
-- [x] Native
-- [x] UKA
-- [x] pACLR
-- [x] pACL
-- [x] ACLR
-- [x] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 ## [JJH06](JJH06)
 Sized: tD8f4 (Ideally 3, but missing)
 
@@ -121,5 +108,17 @@ Sized: tH10f6 (explanted)
 - [x] ACLR
 - [x] no ACL
 - [x] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
+## [JJH05](JJH05)
+Sized:  tG8f4
+
+- [x] Native
+- [x] UKA
+- [x] pACLR
+- [x] pACL
+- [x] ACLR
+- [x] no ACL
+- [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
