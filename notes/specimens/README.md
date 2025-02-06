@@ -23,18 +23,7 @@ Sized: tD8f4 (Ideally 3, but missing)
 - [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
-## [JJH11](JJH11)
-Sized: tJf6 (implanted)
 
-- [x] Native
-- [ ] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 ## [JJH12](JJH12)
 Sized: tE8f4 (implanted)
 
@@ -119,6 +108,18 @@ Sized:  tG8f4
 - [x] pACL
 - [x] ACLR
 - [x] no ACL
+- [ ] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
+## [JJH11](JJH11)
+Sized: tJf6 (Explanted) avulsion fracture from robot instability
+
+- [x] Native
+- [ ] UKA
+- [ ] pACLR
+- [ ] pACL
+- [ ] ACLR
+- [ ] no ACL
 - [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
