@@ -25,11 +25,11 @@ Sized: tD8f4 (Ideally 3, but missing)
 - [ ] no ACL
 
 ## [JJH12](JJH12)
-Sized: tE8f4 (implanted)
+Sized: tE8f4 (implanted. Really stinky)
 
 - [x] Native
-- [ ] UKA
-- [ ] pACLR
+- [x] UKA
+- [ ] pACLR (Instability at this stage, but survived fine)
 - [ ] pACL
 - [ ] ACLR
 - [ ] no ACL
