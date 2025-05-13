@@ -100,14 +100,14 @@ Sized: tH10f6 (explanted)
 - [ ] ACLR
 - [ ] no ACL
 ## [JJH05](JJH05)
-Sized:  tG8f4
+Sized:  tG8f4. Instability during ACLR removed the ligament. Specimen waiting to be completed.
 
 - [x] Native
 - [x] UKA
 - [x] pACLR
 - [x] pACL
 - [x] ACLR
-- [x] no ACL
+- [ ] no ACL
 - [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
