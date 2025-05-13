@@ -10,7 +10,18 @@ Sized: tE*f3
 - [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
+## [JJH05](JJH05)
+Sized:  tG8f4. Instability during ACLR removed the ligament. Specimen waiting to be completed.
 
+- [x] Native
+- [x] UKA
+- [x] pACLR
+- [x] pACL
+- [x] ACLR
+- [ ] no ACL
+- [ ] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
 ## [JJH06](JJH06)
 Sized: tD8f4 (Ideally 3, but missing)
 
@@ -99,18 +110,7 @@ Sized: tH10f6 (explanted)
 - [x] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
-## [JJH05](JJH05)
-Sized:  tG8f4. Instability during ACLR removed the ligament. Specimen waiting to be completed.
 
-- [x] Native
-- [x] UKA
-- [x] pACLR
-- [x] pACL
-- [x] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 ## [JJH11](JJH11)
 Sized: tJf6 (Explanted) avulsion fracture from robot instability
 
