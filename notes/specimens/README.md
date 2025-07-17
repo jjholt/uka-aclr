@@ -1,3 +1,16 @@
+## [JJH14](JJH14)
+Sized: tE8f4 (implanted)
+
+- [x] Native
+- [x] UKA
+- [ ] pACLR
+- [ ] pACL
+- [ ] ACLR
+- [ ] no ACL
+- [ ] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
+
 ## [JJH01](JJH01)
 Sized: tE*f3
 
@@ -35,30 +48,6 @@ Sized: tD8f4 (Ideally 3, but missing)
 - [ ] ACLR
 - [ ] no ACL
 
-## [JJH12](JJH12)
-Sized: tE8f4 (implanted. Really stinky)
-
-- [x] Native
-- [x] UKA
-- [ ] pACLR (Instability at this stage, but survived fine)
-- [ ] pACL
-- [ ] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
-## [JJH14](JJH14)
-Sized: tE8f4
-
-- [x] Native
-- [ ] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 ## [JJH16](JJH16)
 Sized: tC8f3
 
@@ -74,18 +63,7 @@ Sized: tC8f3
 
 ----
 # Completed
-## [JJH02](JJH02)
-Sized: tG8f5 (explanted). Avulsion fraction from robot jerking motion
 
-- [x] Native
-- [ ] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 ## [JJH03](JJH03)
 Sized: tG8f5 (explanted)
 
@@ -111,6 +89,31 @@ Sized: tH10f6 (explanted)
 - [ ] ACLR
 - [ ] no ACL
 
+## [JJH12](JJH12)
+Sized: tE8f4 (explanted. Really stinky)
+
+- [x] Native
+- [x] UKA
+- [x] pACLR
+- [ ] pACL
+- [x] ACLR
+- [x] no ACL
+- [ ] no ACL + LET. LET didn't survive
+
+----
+# Failed
+## [JJH02](JJH02)
+Sized: tG8f5 (explanted). Avulsion fraction from robot jerking motion
+
+- [x] Native
+- [ ] UKA
+- [ ] pACLR
+- [ ] pACL
+- [ ] ACLR
+- [ ] no ACL
+- [ ] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
 ## [JJH11](JJH11)
 Sized: tJf6 (Explanted) avulsion fracture from robot instability
 
