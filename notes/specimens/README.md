@@ -3,9 +3,8 @@ Sized: tE8f4 (implanted)
 
 - [x] Native
 - [x] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
+- [x] pACLR
+- [ ] ACLR (Ligament crushed the tibial cortex. Failed to hold. Reattempting with a nut against the cortex -- "endobutton" of sorts)
 - [ ] no ACL
 - [ ] Osteotomy 
 - [ ] ACLR
