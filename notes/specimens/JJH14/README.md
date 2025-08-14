@@ -17,3 +17,4 @@ The mechanics were reasonable, however the pattern in posterior loading was a bi
 ----
 
 With no ACL, the ligament was extremely loose -- more so than normal, but the AP laxity was within normal, so no concerns.
+In external rotation there was a moment of instability in two separate attempts around 50 degrees flexion. A very large anterior translation (+ others) occurs there, almost like something is sliding into place
