@@ -6,3 +6,8 @@ When removed to check, it would not slide back in the same place. Remounted, re-
 After unoptimised passive flexion, some internal rotation + anterior translation on extension
 Loading moved the tibia posterior to 4mm.
 Posterior load: 6mm posterior in extension
+
+----
+
+Specimen had osteopoenia. In the ACLR stage, the ligament crushed some proximal bone, so a second screw was added to attempt to keep tension.
+Several iterations of screws and cement later, tension would not hold. The final solution that did work was tensioning the ligament by rolling it over kochers, then holding it in place with a vise.
