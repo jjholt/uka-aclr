@@ -11,3 +11,9 @@ Posterior load: 6mm posterior in extension
 
 Specimen had osteopoenia. In the ACLR stage, the ligament crushed some proximal bone, so a second screw was added to attempt to keep tension.
 Several iterations of screws and cement later, tension would not hold. The final solution that did work was tensioning the ligament by rolling it over kochers, then holding it in place with a vise.
+
+The mechanics were reasonable, however the pattern in posterior loading was a bit odd. Posterior loading was repeated several times to see if there were any improvements.
+
+----
+
+With no ACL, the ligament was extremely loose -- more so than normal, but the AP laxity was within normal, so no concerns.
