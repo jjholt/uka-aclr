@@ -1,15 +1,3 @@
-## [JJH14](JJH14)
-Sized: tE8f4 (implanted)
-
-- [x] Native
-- [x] UKA
-- [x] pACLR
-- [ ] ACLR (Ligament crushed the tibial cortex. Failed to hold. Reattempting with a nut against the cortex -- "endobutton" of sorts)
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
-
 ## [JJH01](JJH01)
 Sized: tE*f3
 
@@ -98,6 +86,18 @@ Sized: tE8f4 (explanted. Really stinky)
 - [x] ACLR
 - [x] no ACL
 - [ ] no ACL + LET. LET didn't survive
+
+## [JJH14](JJH14)
+Sized: tE8f4 (Explanted)
+
+- [x] Native
+- [x] UKA
+- [x] pACLR
+- [x] ACLR (Ligament crushed the tibial cortex. Failed to hold. Reattempting with a nut against the cortex -- "endobutton" of sorts)
+- [x] no ACL
+- [ ] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
 
 ----
 # Failed
