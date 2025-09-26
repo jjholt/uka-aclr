@@ -1,5 +1,5 @@
 ## [JJH01](JJH01)
-Sized: tE*f3
+Sized: tE*f3 (Missing tibial cuts)
 
 - [x] Native
 - [ ] UKA
@@ -39,7 +39,7 @@ Sized: tD8f4 (Ideally 3, but missing)
 Sized: tC8f3
 
 - [x] Native
-- [ ] UKA
+- [x] UKA (Kept failing at 3 deg, extension, in internal rotation. Repeat nearest neighbour when processing data)
 - [ ] pACLR
 - [ ] pACL
 - [ ] ACLR
