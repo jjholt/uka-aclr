@@ -36,13 +36,12 @@ Sized: tD8f4 (Ideally 3, but missing)
 - [ ] no ACL
 
 ## [JJH16](JJH16)
-Sized: tC8f3
+Sized: tC8f3 (explanted)
 
 - [x] Native
 - [x] UKA (Kept failing at 3 deg, extension, in internal rotation. Repeat nearest neighbour when processing data)
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
+- [x] pACLR (same failure at 3 deg)
+- [ ] ACLR (Could not complete). tibial tunnel extremely wide and could not get any ACL to hold.
 - [ ] no ACL
 - [ ] Osteotomy 
 - [ ] ACLR
