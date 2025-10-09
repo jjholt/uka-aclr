@@ -7,32 +7,14 @@ Sized: tE*f3 (Missing tibial cuts)
 - [ ] pACL
 - [ ] ACLR
 - [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
-## [JJH05](JJH05)
-Sized:  tG8f4. Instability during ACLR removed the ligament. Specimen waiting to be completed.
 
-- [x] Native
-- [x] UKA
-- [x] pACLR
-- [x] pACL
-- [x] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 ## [JJH06](JJH06)
-Sized: tD8f4 (Ideally 3, but missing)
+Sized: tD8f4 (Ideally 3, but missing). Explanted
 
 - [x] Native
-- [ ] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
-- [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
+-  UKA
+-  pACLR
+- [ ] ACLR. Multiple femoral tunnels, but translation during ACLR was questionable.
 - [ ] no ACL
 
 ## [JJH16](JJH16)
@@ -43,13 +25,9 @@ Sized: tC8f3 (explanted)
 - [x] pACLR (same failure at 3 deg)
 - [ ] ACLR (Could not complete). tibial tunnel extremely wide and could not get any ACL to hold.
 - [ ] no ACL
-- [ ] Osteotomy 
-- [ ] ACLR
-- [ ] no ACL
 
 ----
-# Completed
-
+# Redo because ACLR looks questionable
 ## [JJH03](JJH03)
 Sized: tG8f5 (explanted)
 
@@ -62,6 +40,22 @@ Sized: tG8f5 (explanted)
 - [ ] Osteotomy 
 - [ ] ACLR
 - [ ] no ACL
+
+## [JJH05](JJH05)
+Sized:  tG8f4. Instability during ACLR removed the ligament. Specimen waiting to be completed.
+
+- [x] Native
+- [x] UKA
+- [x] pACLR
+- [x] pACL
+- [x] ACLR
+- [ ] no ACL
+- [ ] Osteotomy 
+- [ ] ACLR
+- [ ] no ACL
+----
+# Completed
+
 ## [JJH04](JJH04)
 Sized: tH10f6 (explanted)
 
