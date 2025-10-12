@@ -1,8 +1,8 @@
 ## [JJH01](JJH01)
-Sized: tE*f3 (Missing tibial cuts)
+Sized: tE*f3
 
 - [x] Native
-- [ ] UKA
+- [x] UKA
 - [ ] pACLR
 - [ ] pACL
 - [ ] ACLR
