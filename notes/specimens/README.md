@@ -3,9 +3,8 @@ Sized: tE*f3
 
 - [x] Native
 - [x] UKA
-- [ ] pACLR
-- [ ] pACL
-- [ ] ACLR
+- [x] pACLR
+- [x] ACLR
 - [ ] no ACL
 
 ## [JJH06](JJH06)
